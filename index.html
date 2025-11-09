@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Awards Database</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="flags-container">
+                <img src="https://flagcdn.com/w40/us.png" alt="English" class="flag" onclick="setLanguage('en')" title="English">
+                <img src="https://flagcdn.com/w40/co.png" alt="Español" class="flag" onclick="setLanguage('es')" title="Español">
+            </div>
+            <h1>🎮 THE GAME AWARDS 🏆</h1>
+            <p class="subtitle" data-en="CELEBRATING EXCELLENCE IN GAMING (2014-2025)" data-es="CELEBRANDO LA EXCELENCIA EN LOS VIDEOJUEGOS (2014-2025)">CELEBRANDO LA EXCELENCIA EN LOS VIDEOJUEGOS (2014-2025)</p>
+            <nav>
+                <ul>
+                    <li><a href="#" onclick="showAll()" data-en="Home" data-es="Inicio">Inicio</a></li>
+                    <li class="dropdown year-dropdown">
+                        <a href="#" class="dropbtn" data-en="Years ▼" data-es="Años ▼">Años ▼</a>
+                        <div class="dropdown-content">
+                            <div class="year-checkboxes">
+                                <!-- Years will be populated by JavaScript -->
+                            </div>
+                            <button class="apply-filters" onclick="applyYearFilters()" data-en="Apply Filters" data-es="Aplicar Filtros">Aplicar Filtros</button>
+                        </div>
+                    </li>
+                    <li class="dropdown category-dropdown">
+                        <a href="#" class="dropbtn" data-en="Categories ▼" data-es="Categorías ▼">Categorías ▼</a>
+                        <div class="dropdown-content">
+                            <!-- Categories will be populated by JavaScript -->
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section class="filters">
+                <h2 id="filter-title" data-en="ALL GAME AWARDS" data-es="TODOS LOS PREMIOS DE VIDEOJUEGOS">TODOS LOS PREMIOS DE VIDEOJUEGOS</h2>
+            </section>
+            
+            <section class="awards" id="awards-container">
+                <!-- Awards will be populated by JavaScript -->
+            </section>
+        </main>
+        
+        <footer>
+            <p data-en="&copy; 2025 GAME AWARDS DATABASE | BY JHAN CARLOS MESA ESCOBAR" data-es="&copy; 2025 BASE DE DATOS DE PREMIOS DE VIDEOJUEGOS | POR JHAN CARLOS MESA ESCOBAR">&copy; 2025 BASE DE DATOS DE PREMIOS DE VIDEOJUEGOS | POR JHAN CARLOS MESA ESCOBAR</p>
+        </footer>
+    </div>
+    
+    <!-- Modal -->
+    <div id="gameModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-header">
+                <h2 id="modal-title">Game Title</h2>
+                <div id="modal-winner"></div>
+            </div>
+            <div class="modal-image">
+                <img id="modal-image" src="" alt="Game Image">
+            </div>
+            <div class="modal-body">
+                <div class="modal-section">
+                    <h3 data-en="General Information" data-es="Información General">Información General</h3>
+                    <p id="modal-description"></p>
+                    <p><strong data-en="Release Date:" data-es="Fecha de Lanzamiento:">Fecha de Lanzamiento:</strong> <span id="modal-release-date"></span></p>
+                    <p><strong data-en="Genre:" data-es="Género:">Género:</strong> <span id="modal-genre"></span></p>
+                    <p><strong data-en="Platforms:" data-es="Plataformas:">Plataformas:</strong> <span id="modal-platforms"></span></p>
+                    <p><strong data-en="Developer:" data-es="Desarrollador:">Desarrollador:</strong> <span id="modal-developer"></span></p>
+                    <p><strong data-en="Publisher:" data-es="Editor:">Editor:</strong> <span id="modal-publisher"></span></p>
+                </div>
+                <div class="modal-section">
+                    <h3 data-en="Purchase Details" data-es="Detalles de Compra">Detalles de Compra</h3>
+                    <p><strong data-en="Approximate Price:" data-es="Precio Aproximado:">Precio Aproximado:</strong> <span id="modal-price"></span></p>
+                    <h4 data-en="System Requirements (PC):" data-es="Requisitos del Sistema (PC):">Requisitos del Sistema (PC):</h4>
+                    <ul id="modal-requirements"></ul>
+                    <h4 data-en="Purchase Links:" data-es="Enlaces de Compra:">Enlaces de Compra:</h4>
+                    <div class="purchase-links" id="modal-purchase-links"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

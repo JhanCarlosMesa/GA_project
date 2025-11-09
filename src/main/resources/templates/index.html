@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Game Awards</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>The Game Awards</h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Years ▼</a>
+                    <div class="dropdown-content">
+                        <a href="/year?year=2014">2014</a>
+                        <a href="/year?year=2015">2015</a>
+                        <a href="/year?year=2016">2016</a>
+                        <a href="/year?year=2017">2017</a>
+                        <a href="/year?year=2018">2018</a>
+                        <a href="/year?year=2019">2019</a>
+                    </div>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Categories ▼</a>
+                    <div class="dropdown-content">
+                        <a href="/category?category=Game of the Year">Game of the Year</a>
+                        <a href="/category?category=Studio of the Year">Studio of the Year</a>
+                        <a href="/category?category=Developer of the Year">Developer of the Year</a>
+                        <a href="/category?category=Best RPG">Best RPG</a>
+                        <a href="/category?category=Best Action Game">Best Action Game</a>
+                        <a href="/category?category=Best Narrative">Best Narrative</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="filters">
+            <h2 th:if="${year}">Awards for <span th:text="${year}"></span></h2>
+            <h2 th:if="${category}">Category: <span th:text="${category}"></span></h2>
+            <h2 th:unless="${year or category}">All Game Awards</h2>
+        </section>
+        
+        <section class="awards">
+            <div class="award-card" th:each="award : ${awards}">
+                <div class="award-header">
+                    <h3 th:text="${award.category}"></h3>
+                    <span class="year" th:text="${award.year}"></span>
+                </div>
+                <div class="nominee" th:classappend="${award.winner ? 'winner' : ''}">
+                    <span th:text="${award.nominee}"></span>
+                    <span class="winner-badge" th:if="${award.winner}">WINNER</span>
+                </div>
+                <div class="additional-info" th:if="${award.additionalInfo}" th:text="${award.additionalInfo}"></div>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Game Awards Database</p>
+    </footer>
+    
+    <script src="/js/script.js"></script>
+</body>
+</html>

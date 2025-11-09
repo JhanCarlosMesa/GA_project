@@ -1,0 +1,6455 @@
+[
+  {
+    "id": 1,
+    "year": 2014,
+    "category": "Game of the Year",
+    "nominee": "Hearthstone: Heroes of Warcraft",
+    "winner": true,
+    "additionalInfo": "Published by Blizzard Entertainment"
+  },
+  {
+    "id": 2,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": true,
+    "additionalInfo": "Published by CD Projekt"
+  },
+  {
+    "id": 3,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": "Published by Blizzard Entertainment"
+  },
+  {
+    "id": 4,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": true,
+    "additionalInfo": "Published by Nintendo"
+  },
+  {
+    "id": 5,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "God of War",
+    "winner": true,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 6,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Sekiro: Shadows Die Twice",
+    "winner": true,
+    "additionalInfo": "Published by Activision"
+  },
+  {
+    "id": 7,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Bloodborne",
+    "winner": false,
+    "additionalInfo": "Published by Sony Computer Entertainment"
+  },
+  {
+    "id": 8,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": true,
+    "additionalInfo": "Published by CD Projekt"
+  },
+  {
+    "id": 9,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Metal Gear Solid V: The Phantom Pain",
+    "winner": false,
+    "additionalInfo": "Published by Konami"
+  },
+  {
+    "id": 10,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Fallout 4",
+    "winner": false,
+    "additionalInfo": "Published by Bethesda Softworks"
+  },
+  {
+    "id": 11,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Super Mario Maker",
+    "winner": false,
+    "additionalInfo": "Published by Nintendo"
+  },
+  {
+    "id": 12,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": "Published by Blizzard Entertainment"
+  },
+  {
+    "id": 13,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 14,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Titanfall 2",
+    "winner": false,
+    "additionalInfo": "Published by Electronic Arts"
+  },
+  {
+    "id": 15,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Inside",
+    "winner": false,
+    "additionalInfo": "Published by Playdead"
+  },
+  {
+    "id": 16,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Firewatch",
+    "winner": false,
+    "additionalInfo": "Published by Panic"
+  },
+  {
+    "id": 17,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": true,
+    "additionalInfo": "Published by Nintendo"
+  },
+  {
+    "id": 18,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "Horizon: Zero Dawn",
+    "winner": false,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 19,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "Super Mario Odyssey",
+    "winner": false,
+    "additionalInfo": "Published by Nintendo"
+  },
+  {
+    "id": 20,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "PlayerUnknown's Battlegrounds",
+    "winner": false,
+    "additionalInfo": "Published by PUBG Corporation"
+  },
+  {
+    "id": 21,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "Persona 5",
+    "winner": false,
+    "additionalInfo": "Published by Atlus"
+  },
+  {
+    "id": 22,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "God of War",
+    "winner": true,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 23,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Monster Hunter: World",
+    "winner": false,
+    "additionalInfo": "Published by Capcom"
+  },
+  {
+    "id": 24,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": "Published by Rockstar Games"
+  },
+  {
+    "id": 25,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Celeste",
+    "winner": false,
+    "additionalInfo": "Published by Matt Makes Games"
+  },
+  {
+    "id": 26,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 27,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Sekiro: Shadows Die Twice",
+    "winner": true,
+    "additionalInfo": "Published by Activision"
+  },
+  {
+    "id": 28,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 29,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Control",
+    "winner": false,
+    "additionalInfo": "Published by 505 Games"
+  },
+  {
+    "id": 30,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Resident Evil 2",
+    "winner": false,
+    "additionalInfo": "Published by Capcom"
+  },
+  {
+    "id": 31,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Borderlands 3",
+    "winner": false,
+    "additionalInfo": "Published by 2K Games"
+  },
+  {
+    "id": 32,
+    "year": 2019,
+    "category": "Best RPG",
+    "nominee": "The Outer Worlds",
+    "winner": false,
+    "additionalInfo": "Published by Private Division"
+  },
+  {
+    "id": 33,
+    "year": 2019,
+    "category": "Best RPG",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 34,
+    "year": 2019,
+    "category": "Best RPG",
+    "nominee": "Blair Witch",
+    "winner": false,
+    "additionalInfo": "Published by Bloober Team"
+  },
+  {
+    "id": 35,
+    "year": 2019,
+    "category": "Best RPG",
+    "nominee": "Borderlands 3",
+    "winner": false,
+    "additionalInfo": "Published by 2K Games"
+  },
+  {
+    "id": 36,
+    "year": 2019,
+    "category": "Best RPG",
+    "nominee": "Control",
+    "winner": true,
+    "additionalInfo": "Published by 505 Games"
+  },
+  {
+    "id": 37,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "God of War",
+    "winner": true,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 38,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Monster Hunter: World",
+    "winner": false,
+    "additionalInfo": "Published by Capcom"
+  },
+  {
+    "id": 39,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": "Published by Rockstar Games"
+  },
+  {
+    "id": 40,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Spider-Man",
+    "winner": false,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 41,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Super Smash Bros. Ultimate",
+    "winner": false,
+    "additionalInfo": "Published by Nintendo"
+  },
+  {
+    "id": 42,
+    "year": 2017,
+    "category": "Best RPG",
+    "nominee": "Persona 5",
+    "winner": true,
+    "additionalInfo": "Published by Atlus"
+  },
+  {
+    "id": 43,
+    "year": 2017,
+    "category": "Best RPG",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": false,
+    "additionalInfo": "Published by Nintendo"
+  },
+  {
+    "id": 44,
+    "year": 2017,
+    "category": "Best RPG",
+    "nominee": "Divinity: Original Sin 2",
+    "winner": false,
+    "additionalInfo": "Published by Larian Studios"
+  },
+  {
+    "id": 45,
+    "year": 2017,
+    "category": "Best RPG",
+    "nominee": "South Park: The Fractured But Whole",
+    "winner": false,
+    "additionalInfo": "Published by Ubisoft"
+  },
+  {
+    "id": 46,
+    "year": 2017,
+    "category": "Best RPG",
+    "nominee": "NieR: Automata",
+    "winner": false,
+    "additionalInfo": "Published by Square Enix"
+  },
+  {
+    "id": 47,
+    "year": 2016,
+    "category": "Best RPG",
+    "nominee": "The Witcher 3: Wild Hunt - Blood and Wine",
+    "winner": true,
+    "additionalInfo": "Published by CD Projekt"
+  },
+  {
+    "id": 48,
+    "year": 2016,
+    "category": "Best RPG",
+    "nominee": "Dark Souls III",
+    "winner": false,
+    "additionalInfo": "Published by Bandai Namco Entertainment"
+  },
+  {
+    "id": 49,
+    "year": 2016,
+    "category": "Best RPG",
+    "nominee": "Final Fantasy XV",
+    "winner": false,
+    "additionalInfo": "Published by Square Enix"
+  },
+  {
+    "id": 50,
+    "year": 2016,
+    "category": "Best RPG",
+    "nominee": "Fire Emblem Fates",
+    "winner": false,
+    "additionalInfo": "Published by Nintendo"
+  },
+  {
+    "id": 51,
+    "year": 2016,
+    "category": "Best RPG",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": "Published by Sony Interactive Entertainment"
+  },
+  {
+    "id": 52,
+    "year": 2015,
+    "category": "Best RPG",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": true,
+    "additionalInfo": "Published by CD Projekt"
+  },
+  {
+    "id": 53,
+    "year": 2015,
+    "category": "Best RPG",
+    "nominee": "Bloodborne",
+    "winner": false,
+    "additionalInfo": "Published by Sony Computer Entertainment"
+  },
+  {
+    "id": 54,
+    "year": 2015,
+    "category": "Best RPG",
+    "nominee": "Fallout 4",
+    "winner": false,
+    "additionalInfo": "Published by Bethesda Softworks"
+  },
+  {
+    "id": 55,
+    "year": 2015,
+    "category": "Best RPG",
+    "nominee": "Metal Gear Solid V: The Phantom Pain",
+    "winner": false,
+    "additionalInfo": "Published by Konami"
+  },
+  {
+    "id": 56,
+    "year": 2015,
+    "category": "Best RPG",
+    "nominee": "Dragon Age: Inquisition",
+    "winner": false,
+    "additionalInfo": "Published by Electronic Arts"
+  }
+]
+
+]
+ 
+    "nominee": "Dragon Age: Inquisition",
+    "winner": false,
+    "additionalInfo": "Published by Electronic Arts"
+  }
+]
+
+]
+
+]
+  {
+    "id": 57,
+    "year": 2014,
+    "category": "Best Narrative",
+    "nominee": "South Park: The Stick of Truth",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 58,
+    "year": 2014,
+    "category": "Best Narrative",
+    "nominee": "The Walking Dead: Season Two",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 59,
+    "year": 2014,
+    "category": "Best Narrative",
+    "nominee": "The Wolf Among Us",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 60,
+    "year": 2014,
+    "category": "Best Narrative",
+    "nominee": "Wolfenstein: The New Order",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 61,
+    "year": 2014,
+    "category": "Best Performance",
+    "nominee": "Trey Parker as Various Voices (South Park: The Stick of Truth)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 62,
+    "year": 2014,
+    "category": "Best Performance",
+    "nominee": "Adam Harrington as Bigby Wolf (The Wolf Among Us)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 63,
+    "year": 2014,
+    "category": "Best Performance",
+    "nominee": "Kevin Spacey as Jonathan Irons (Call of Duty: Advanced Warfare)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 64,
+    "year": 2014,
+    "category": "Best Performance",
+    "nominee": "Melissa Hutchison as Clementine (The Walking Dead: Season Two)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 65,
+    "year": 2014,
+    "category": "Best Performance",
+    "nominee": "Troy Baker as Talion (in Middle-earth: Shadow of Mordor)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 66,
+    "year": 2014,
+    "category": "Games for Change",
+    "nominee": "Valiant Hearts: The Great War",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 67,
+    "year": 2014,
+    "category": "Games for Change",
+    "nominee": "Mountain",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 68,
+    "year": 2014,
+    "category": "Games for Change",
+    "nominee": "Never Alone",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 69,
+    "year": 2014,
+    "category": "Games for Change",
+    "nominee": "The Last of Us: Left Behind",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 70,
+    "year": 2014,
+    "category": "Games for Change",
+    "nominee": "This War of Mine",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 71,
+    "year": 2014,
+    "category": "Best Family Game",
+    "nominee": "Mario Kart 8",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 72,
+    "year": 2014,
+    "category": "Best Family Game",
+    "nominee": "Mountain",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 73,
+    "year": 2014,
+    "category": "Best Family Game",
+    "nominee": "Never Alone",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 74,
+    "year": 2014,
+    "category": "Best Family Game",
+    "nominee": "The Last of Us: Left Behind",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 75,
+    "year": 2014,
+    "category": "Best Family Game",
+    "nominee": "This War of Mine",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 76,
+    "year": 2014,
+    "category": "Best Online Experience",
+    "nominee": "Destiny",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 77,
+    "year": 2014,
+    "category": "Best Online Experience",
+    "nominee": "Call of Duty: Advanced Warfare",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 78,
+    "year": 2014,
+    "category": "Best Online Experience",
+    "nominee": "Dark Souls II",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 79,
+    "year": 2014,
+    "category": "Best Online Experience",
+    "nominee": "Hearthstone: Heroes of Warcraft",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 80,
+    "year": 2014,
+    "category": "Best Online Experience",
+    "nominee": "Titanfall",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 81,
+    "year": 2014,
+    "category": "Most Anticipated Game 2015",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 82,
+    "year": 2014,
+    "category": "Most Anticipated Game 2015",
+    "nominee": "Batman: Arkham Knight",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 83,
+    "year": 2014,
+    "category": "Most Anticipated Game 2015",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 84,
+    "year": 2014,
+    "category": "Most Anticipated Game 2015",
+    "nominee": "Evolve",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 85,
+    "year": 2014,
+    "category": "Most Anticipated Game 2015",
+    "nominee": "Bloodborne",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 86,
+    "year": 2014,
+    "category": "Best Fan Creation",
+    "nominee": "Twitch Plays Pokémon – by Anonymous",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 87,
+    "year": 2014,
+    "category": "Best Fan Creation",
+    "nominee": "Luigi Death Stare",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 88,
+    "year": 2014,
+    "category": "Best Fan Creation",
+    "nominee": "It's Dangerous to Go Alone",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 89,
+    "year": 2014,
+    "category": "Best Fan Creation",
+    "nominee": "Minecraft - Titan City",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 90,
+    "year": 2014,
+    "category": "Best Fan Creation",
+    "nominee": "Mine the Diamond (Minecraft Song)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 91,
+    "year": 2014,
+    "category": "ESports Player of the Year",
+    "nominee": "Matt \"NaDeSHoT\" Haag",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 92,
+    "year": 2014,
+    "category": "ESports Player of the Year",
+    "nominee": "Christopher \"GeT RiGhT\" Alesund",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 93,
+    "year": 2014,
+    "category": "ESports Player of the Year",
+    "nominee": "Martin ‘Rekkles’ Larsson",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 94,
+    "year": 2014,
+    "category": "ESports Player of the Year",
+    "nominee": "James “Firebat” Kostesich",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 95,
+    "year": 2014,
+    "category": "ESports Player of the Year",
+    "nominee": "Xu “Fy” Linsen",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 96,
+    "year": 2014,
+    "category": "ESports Team of the Year",
+    "nominee": "Ninjas in Pyjamas",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 97,
+    "year": 2014,
+    "category": "ESports Team of the Year",
+    "nominee": "Evil Geniuses",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 98,
+    "year": 2014,
+    "category": "ESports Team of the Year",
+    "nominee": "Samsung White",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 99,
+    "year": 2014,
+    "category": "ESports Team of the Year",
+    "nominee": "Edward Gaming",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 100,
+    "year": 2014,
+    "category": "ESports Team of the Year",
+    "nominee": "Newbee",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 101,
+    "year": 2014,
+    "category": "Trending Gamer",
+    "nominee": "TotalBiscuit",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 102,
+    "year": 2014,
+    "category": "Trending Gamer",
+    "nominee": "Evan \"Vanoss\" Fong",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 103,
+    "year": 2014,
+    "category": "Trending Gamer",
+    "nominee": "Jeff Gerstmann",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 104,
+    "year": 2014,
+    "category": "Trending Gamer",
+    "nominee": "PewDiePie",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 105,
+    "year": 2014,
+    "category": "Trending Gamer",
+    "nominee": "StampyLongHead",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 106,
+    "year": 2014,
+    "category": "Industry Icon Award",
+    "nominee": "Ken and Roberta Williams",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 107,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 108,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Bloodborne",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 109,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Fallout 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 110,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Metal Gear Solid V: The Phantom Pain",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 111,
+    "year": 2015,
+    "category": "Game of the Year",
+    "nominee": "Super Mario Maker",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 112,
+    "year": 2015,
+    "category": "Developer of the Year",
+    "nominee": "CD Projekt Red",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 113,
+    "year": 2015,
+    "category": "Developer of the Year",
+    "nominee": "Bethesda Game Studios",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 114,
+    "year": 2015,
+    "category": "Developer of the Year",
+    "nominee": "FromSoftware",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 115,
+    "year": 2015,
+    "category": "Developer of the Year",
+    "nominee": "Kojima Productions",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 116,
+    "year": 2015,
+    "category": "Developer of the Year",
+    "nominee": "Nintendo",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 117,
+    "year": 2015,
+    "category": "Best Independent Game",
+    "nominee": "Rocket League",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 118,
+    "year": 2015,
+    "category": "Best Independent Game",
+    "nominee": "Axiom Verge",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 119,
+    "year": 2015,
+    "category": "Best Independent Game",
+    "nominee": "Her Story",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 120,
+    "year": 2015,
+    "category": "Best Independent Game",
+    "nominee": "Ori and the Blind Forest",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 121,
+    "year": 2015,
+    "category": "Best Independent Game",
+    "nominee": "Undertale",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 122,
+    "year": 2015,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Lara Croft Go",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 123,
+    "year": 2015,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Downwell",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 124,
+    "year": 2015,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Fallout Shelter",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 125,
+    "year": 2015,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Monster Hunter 4 Ultimate",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 126,
+    "year": 2015,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Pac-Man 256",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 127,
+    "year": 2015,
+    "category": "Best Narrative",
+    "nominee": "Her Story",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 128,
+    "year": 2015,
+    "category": "Best Narrative",
+    "nominee": "Life Is Strange",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 129,
+    "year": 2015,
+    "category": "Best Narrative",
+    "nominee": "Tales from the Borderlands",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 130,
+    "year": 2015,
+    "category": "Best Narrative",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 131,
+    "year": 2015,
+    "category": "Best Narrative",
+    "nominee": "Until Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 132,
+    "year": 2015,
+    "category": "Best Art Direction",
+    "nominee": "Ori and the Blind Forest",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 133,
+    "year": 2015,
+    "category": "Best Art Direction",
+    "nominee": "Batman: Arkham Knight",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 134,
+    "year": 2015,
+    "category": "Best Art Direction",
+    "nominee": "Bloodborne",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 135,
+    "year": 2015,
+    "category": "Best Art Direction",
+    "nominee": "Metal Gear Solid V: The Phantom Pain",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 136,
+    "year": 2015,
+    "category": "Best Art Direction",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 137,
+    "year": 2015,
+    "category": "Best Score/Soundtrack",
+    "nominee": "Metal Gear Solid V: The Phantom Pain",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 138,
+    "year": 2015,
+    "category": "Best Score/Soundtrack",
+    "nominee": "Fallout 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 139,
+    "year": 2015,
+    "category": "Best Score/Soundtrack",
+    "nominee": "Halo 5: Guardians",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 140,
+    "year": 2015,
+    "category": "Best Score/Soundtrack",
+    "nominee": "Ori and the Blind Forest",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 141,
+    "year": 2015,
+    "category": "Best Score/Soundtrack",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 142,
+    "year": 2015,
+    "category": "Best Performance",
+    "nominee": "Viva Seifert as Hannah Smith (Her Story)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 143,
+    "year": 2015,
+    "category": "Best Performance",
+    "nominee": "Ashly Burch as Chloe Price (Life Is Strange)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 144,
+    "year": 2015,
+    "category": "Best Performance",
+    "nominee": "Camilla Luddington as Lara Croft (Rise of the Tomb Raider)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 145,
+    "year": 2015,
+    "category": "Best Performance",
+    "nominee": "Doug Cockle as Geralt of Rivia (The Witcher 3: Wild Hunt)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 146,
+    "year": 2015,
+    "category": "Best Performance",
+    "nominee": "Mark Hamill as the Joker (Batman: Arkham Knight)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 147,
+    "year": 2015,
+    "category": "Games for Impact",
+    "nominee": "Life Is Strange",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 148,
+    "year": 2015,
+    "category": "Games for Impact",
+    "nominee": "Cibele",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 149,
+    "year": 2015,
+    "category": "Games for Impact",
+    "nominee": "Her Story",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 150,
+    "year": 2015,
+    "category": "Games for Impact",
+    "nominee": "Sunset",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 151,
+    "year": 2015,
+    "category": "Games for Impact",
+    "nominee": "Undertale",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 152,
+    "year": 2015,
+    "category": "Best Shooter",
+    "nominee": "Splatoon",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 153,
+    "year": 2015,
+    "category": "Best Shooter",
+    "nominee": "Call of Duty: Black Ops III",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 154,
+    "year": 2015,
+    "category": "Best Shooter",
+    "nominee": "Destiny: The Taken King",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 155,
+    "year": 2015,
+    "category": "Best Shooter",
+    "nominee": "Halo 5: Guardians",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 156,
+    "year": 2015,
+    "category": "Best Shooter",
+    "nominee": "Star Wars Battlefront",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 157,
+    "year": 2015,
+    "category": "Best Action/Adventure",
+    "nominee": "Metal Gear Solid V: The Phantom Pain",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 158,
+    "year": 2015,
+    "category": "Best Action/Adventure",
+    "nominee": "Assassin's Creed Syndicate",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 159,
+    "year": 2015,
+    "category": "Best Action/Adventure",
+    "nominee": "Batman: Arkham Knight",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 160,
+    "year": 2015,
+    "category": "Best Action/Adventure",
+    "nominee": "Ori and the Blind Forest",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 161,
+    "year": 2015,
+    "category": "Best Action/Adventure",
+    "nominee": "Rise of the Tomb Raider",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 162,
+    "year": 2015,
+    "category": "Best Role Playing Game",
+    "nominee": "The Witcher 3: Wild Hunt",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 163,
+    "year": 2015,
+    "category": "Best Role Playing Game",
+    "nominee": "Bloodborne",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 164,
+    "year": 2015,
+    "category": "Best Role Playing Game",
+    "nominee": "Fallout 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 165,
+    "year": 2015,
+    "category": "Best Role Playing Game",
+    "nominee": "Pillars of Eternity",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 166,
+    "year": 2015,
+    "category": "Best Role Playing Game",
+    "nominee": "Undertale",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 167,
+    "year": 2015,
+    "category": "Best Fighting Game",
+    "nominee": "Mortal Kombat X",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 168,
+    "year": 2015,
+    "category": "Best Fighting Game",
+    "nominee": "Guilty Gear Xrd",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 169,
+    "year": 2015,
+    "category": "Best Fighting Game",
+    "nominee": "Rise of Incarnates",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 170,
+    "year": 2015,
+    "category": "Best Fighting Game",
+    "nominee": "Rising Thunder",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 171,
+    "year": 2015,
+    "category": "Best Family Game",
+    "nominee": "Super Mario Maker",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 172,
+    "year": 2015,
+    "category": "Best Family Game",
+    "nominee": "Disney Infinity 3.0",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 173,
+    "year": 2015,
+    "category": "Best Family Game",
+    "nominee": "Lego Dimensions",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 174,
+    "year": 2015,
+    "category": "Best Family Game",
+    "nominee": "Skylanders: SuperChargers",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 175,
+    "year": 2015,
+    "category": "Best Family Game",
+    "nominee": "Splatoon",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 176,
+    "year": 2015,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Rocket League",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 177,
+    "year": 2015,
+    "category": "Best Sports/Racing Game",
+    "nominee": "FIFA 16",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 178,
+    "year": 2015,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Forza Motorsport 6",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 179,
+    "year": 2015,
+    "category": "Best Sports/Racing Game",
+    "nominee": "NBA 2K16",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 180,
+    "year": 2015,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Pro Evolution Soccer 2016",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 181,
+    "year": 2015,
+    "category": "Best Multiplayer",
+    "nominee": "Splatoon",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 182,
+    "year": 2015,
+    "category": "Best Multiplayer",
+    "nominee": "Call of Duty: Black Ops III",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 183,
+    "year": 2015,
+    "category": "Best Multiplayer",
+    "nominee": "Destiny: The Taken King",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 184,
+    "year": 2015,
+    "category": "Best Multiplayer",
+    "nominee": "Halo 5: Guardians",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 185,
+    "year": 2015,
+    "category": "Best Multiplayer",
+    "nominee": "Rocket League",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 186,
+    "year": 2015,
+    "category": "Most Anticipated Game",
+    "nominee": "No Man's Sky",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 187,
+    "year": 2015,
+    "category": "Most Anticipated Game",
+    "nominee": "Horizon Zero Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 188,
+    "year": 2015,
+    "category": "Most Anticipated Game",
+    "nominee": "Quantum Break",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 189,
+    "year": 2015,
+    "category": "Most Anticipated Game",
+    "nominee": "The Last Guardian",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 190,
+    "year": 2015,
+    "category": "Most Anticipated Game",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 191,
+    "year": 2015,
+    "category": "ESports Player of the Year",
+    "nominee": "Kenny \"KennyS\" Schrub (Team EnVyUs",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 192,
+    "year": 2015,
+    "category": "ESports Player of the Year",
+    "nominee": "Lee \"Faker\" Sang-hyeok (SK Telecom T1 League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 193,
+    "year": 2015,
+    "category": "ESports Player of the Year",
+    "nominee": "Olof \"olofmeister\" Kajbjer (Fnatic",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 194,
+    "year": 2015,
+    "category": "ESports Player of the Year",
+    "nominee": "Peter \"ppd\" Dager (Evil Geniuses Dota 2)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 195,
+    "year": 2015,
+    "category": "ESports Player of the Year",
+    "nominee": "Syed Sumail \"Suma1L\" Hassan (Evil Geniuses Dota 2)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 196,
+    "year": 2015,
+    "category": "ESports Team of the Year",
+    "nominee": "OpTic Gaming",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 197,
+    "year": 2015,
+    "category": "ESports Team of the Year",
+    "nominee": "Evil Geniuses",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 198,
+    "year": 2015,
+    "category": "ESports Team of the Year",
+    "nominee": "Fnatic",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 199,
+    "year": 2015,
+    "category": "ESports Team of the Year",
+    "nominee": "SK Telecom T1",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 200,
+    "year": 2015,
+    "category": "ESports Team of the Year",
+    "nominee": "Team SoloMid",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 201,
+    "year": 2015,
+    "category": "ESports Game of the Year",
+    "nominee": "Counter-Strike: Global Offensive",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 202,
+    "year": 2015,
+    "category": "ESports Game of the Year",
+    "nominee": "Call of Duty: Advanced Warfare",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 203,
+    "year": 2015,
+    "category": "ESports Game of the Year",
+    "nominee": "Dota 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 204,
+    "year": 2015,
+    "category": "ESports Game of the Year",
+    "nominee": "Hearthstone: Heroes of Warcraft",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 205,
+    "year": 2015,
+    "category": "ESports Game of the Year",
+    "nominee": "League of Legends",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 206,
+    "year": 2015,
+    "category": "Trending Gamer",
+    "nominee": "Greg Miller",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 207,
+    "year": 2015,
+    "category": "Trending Gamer",
+    "nominee": "TotalBiscuit",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 208,
+    "year": 2015,
+    "category": "Trending Gamer",
+    "nominee": "Christopher \"MonteCristo\" Mykles",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 209,
+    "year": 2015,
+    "category": "Trending Gamer",
+    "nominee": "Markiplier",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 210,
+    "year": 2015,
+    "category": "Trending Gamer",
+    "nominee": "PewDiePie",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 211,
+    "year": 2015,
+    "category": "Best Fan Creation",
+    "nominee": "Portal Stories: Mel",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 212,
+    "year": 2015,
+    "category": "Best Fan Creation",
+    "nominee": "GTA V",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 213,
+    "year": 2015,
+    "category": "Best Fan Creation",
+    "nominee": "Real GTA",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 214,
+    "year": 2015,
+    "category": "Best Fan Creation",
+    "nominee": "Twitch Plays Dark Souls",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 215,
+    "year": 2015,
+    "category": "Industry Icon Award",
+    "nominee": "Brett Sperry and Louis Castle",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 216,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 217,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Doom",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 218,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Inside",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 219,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Titanfall 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 220,
+    "year": 2016,
+    "category": "Game of the Year",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 221,
+    "year": 2016,
+    "category": "Developer of the Year",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 222,
+    "year": 2016,
+    "category": "Developer of the Year",
+    "nominee": "Battlefield 1",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 223,
+    "year": 2016,
+    "category": "Developer of the Year",
+    "nominee": "Doom",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 224,
+    "year": 2016,
+    "category": "Developer of the Year",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 225,
+    "year": 2016,
+    "category": "Developer of the Year",
+    "nominee": "Titanfall 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 226,
+    "year": 2016,
+    "category": "Best Narrative",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 227,
+    "year": 2016,
+    "category": "Best Narrative",
+    "nominee": "Firewatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 228,
+    "year": 2016,
+    "category": "Best Narrative",
+    "nominee": "Inside",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 229,
+    "year": 2016,
+    "category": "Best Narrative",
+    "nominee": "Mafia III",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 230,
+    "year": 2016,
+    "category": "Best Narrative",
+    "nominee": "Oxenfree",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 231,
+    "year": 2016,
+    "category": "Best Art Direction",
+    "nominee": "Inside",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 232,
+    "year": 2016,
+    "category": "Best Art Direction",
+    "nominee": "Abzû",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 233,
+    "year": 2016,
+    "category": "Best Art Direction",
+    "nominee": "Firewatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 234,
+    "year": 2016,
+    "category": "Best Art Direction",
+    "nominee": "Overwatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 235,
+    "year": 2016,
+    "category": "Best Art Direction",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 236,
+    "year": 2016,
+    "category": "Best Music/Sound Design",
+    "nominee": "Doom",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 237,
+    "year": 2016,
+    "category": "Best Music/Sound Design",
+    "nominee": "Battlefield 1",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 238,
+    "year": 2016,
+    "category": "Best Music/Sound Design",
+    "nominee": "Inside",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 239,
+    "year": 2016,
+    "category": "Best Music/Sound Design",
+    "nominee": "Rez Infinite",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 240,
+    "year": 2016,
+    "category": "Best Music/Sound Design",
+    "nominee": "Thumper",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 241,
+    "year": 2016,
+    "category": "Best Performance",
+    "nominee": "Nolan North as Nathan Drake (Uncharted 4: A Thief's End)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 242,
+    "year": 2016,
+    "category": "Best Performance",
+    "nominee": "Alex Hernandez as Lincoln Clay (Mafia III)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 243,
+    "year": 2016,
+    "category": "Best Performance",
+    "nominee": "Cissy Jones as Delilah (Firewatch)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 244,
+    "year": 2016,
+    "category": "Best Performance",
+    "nominee": "Emily Rose as Elena (Uncharted 4: A Thief's End)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 245,
+    "year": 2016,
+    "category": "Best Performance",
+    "nominee": "Rich Sommer as Henry (Firewatch)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 246,
+    "year": 2016,
+    "category": "Best Performance",
+    "nominee": "Troy Baker as Sam Drake (Uncharted 4: A Thief's End)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 247,
+    "year": 2016,
+    "category": "Games for Impact",
+    "nominee": "That Dragon, Cancer",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 248,
+    "year": 2016,
+    "category": "Games for Impact",
+    "nominee": "Block’hood",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 249,
+    "year": 2016,
+    "category": "Games for Impact",
+    "nominee": "Orwell",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 250,
+    "year": 2016,
+    "category": "Games for Impact",
+    "nominee": "Sea Hero Quest",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 251,
+    "year": 2016,
+    "category": "Games for Impact",
+    "nominee": "1979 Revolution: Black Friday",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 252,
+    "year": 2016,
+    "category": "Best Independent Game",
+    "nominee": "Inside",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 253,
+    "year": 2016,
+    "category": "Best Independent Game",
+    "nominee": "Firewatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 254,
+    "year": 2016,
+    "category": "Best Independent Game",
+    "nominee": "Hyper Light Drifter",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 255,
+    "year": 2016,
+    "category": "Best Independent Game",
+    "nominee": "Stardew Valley",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 256,
+    "year": 2016,
+    "category": "Best Independent Game",
+    "nominee": "The Witness",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 257,
+    "year": 2016,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Pokémon Go",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 258,
+    "year": 2016,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Clash Royale",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 259,
+    "year": 2016,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Fire Emblem Fates",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 260,
+    "year": 2016,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Monster Hunter Generations",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 261,
+    "year": 2016,
+    "category": "Best Mobile/Handheld Game",
+    "nominee": "Severed",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 262,
+    "year": 2016,
+    "category": "Best VR Game",
+    "nominee": "Rez Infinite",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 263,
+    "year": 2016,
+    "category": "Best VR Game",
+    "nominee": "Batman: Arkham VR",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 264,
+    "year": 2016,
+    "category": "Best VR Game",
+    "nominee": "Eve: Valkyrie",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 265,
+    "year": 2016,
+    "category": "Best VR Game",
+    "nominee": "Job Simulator",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 266,
+    "year": 2016,
+    "category": "Best VR Game",
+    "nominee": "Thumper",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 267,
+    "year": 2016,
+    "category": "Best Action Game",
+    "nominee": "Doom",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 268,
+    "year": 2016,
+    "category": "Best Action Game",
+    "nominee": "Battlefield 1",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 269,
+    "year": 2016,
+    "category": "Best Action Game",
+    "nominee": "Gears of War 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 270,
+    "year": 2016,
+    "category": "Best Action Game",
+    "nominee": "Overwatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 271,
+    "year": 2016,
+    "category": "Best Action Game",
+    "nominee": "Titanfall 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 272,
+    "year": 2016,
+    "category": "Best Action/Adventure",
+    "nominee": "Dishonored 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 273,
+    "year": 2016,
+    "category": "Best Action/Adventure",
+    "nominee": "Hitman",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 274,
+    "year": 2016,
+    "category": "Best Action/Adventure",
+    "nominee": "Hyper Light Drifter",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 275,
+    "year": 2016,
+    "category": "Best Action/Adventure",
+    "nominee": "Ratchet & Clank",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 276,
+    "year": 2016,
+    "category": "Best Action/Adventure",
+    "nominee": "Uncharted 4: A Thief's End",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 277,
+    "year": 2016,
+    "category": "Best Role Playing Game",
+    "nominee": "The Witcher 3: Wild Hunt - Blood and Wine",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 278,
+    "year": 2016,
+    "category": "Best Role Playing Game",
+    "nominee": "Dark Souls III",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 279,
+    "year": 2016,
+    "category": "Best Role Playing Game",
+    "nominee": "Deus Ex: Mankind Divided",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 280,
+    "year": 2016,
+    "category": "Best Role Playing Game",
+    "nominee": "World of Warcraft: Legion",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 281,
+    "year": 2016,
+    "category": "Best Role Playing Game",
+    "nominee": "Xenoblade Chronicles X",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 282,
+    "year": 2016,
+    "category": "Best Fighting Game",
+    "nominee": "Street Fighter V",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 283,
+    "year": 2016,
+    "category": "Best Fighting Game",
+    "nominee": "Killer Instinct Season Three",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 284,
+    "year": 2016,
+    "category": "Best Fighting Game",
+    "nominee": "The King of Fighters XIV",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 285,
+    "year": 2016,
+    "category": "Best Fighting Game",
+    "nominee": "Pokkén Tournament",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 286,
+    "year": 2016,
+    "category": "Best Strategy Game",
+    "nominee": "Civilization VI",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 287,
+    "year": 2016,
+    "category": "Best Strategy Game",
+    "nominee": "Fire Emblem Fates",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 288,
+    "year": 2016,
+    "category": "Best Strategy Game",
+    "nominee": "The Banner Saga 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 289,
+    "year": 2016,
+    "category": "Best Strategy Game",
+    "nominee": "Total War: Warhammer",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 290,
+    "year": 2016,
+    "category": "Best Strategy Game",
+    "nominee": "XCOM 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 291,
+    "year": 2016,
+    "category": "Best Family Game",
+    "nominee": "Pokémon Go",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 292,
+    "year": 2016,
+    "category": "Best Family Game",
+    "nominee": "Dragon Quest Builders",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 293,
+    "year": 2016,
+    "category": "Best Family Game",
+    "nominee": "Lego Star Wars: The Force Awakens",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 294,
+    "year": 2016,
+    "category": "Best Family Game",
+    "nominee": "Ratchet & Clank",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 295,
+    "year": 2016,
+    "category": "Best Family Game",
+    "nominee": "Skylanders: Imaginators",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 296,
+    "year": 2016,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Forza Horizon 3",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 297,
+    "year": 2016,
+    "category": "Best Sports/Racing Game",
+    "nominee": "FIFA 17",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 298,
+    "year": 2016,
+    "category": "Best Sports/Racing Game",
+    "nominee": "MLB The Show 16",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 299,
+    "year": 2016,
+    "category": "Best Sports/Racing Game",
+    "nominee": "NBA 2K17",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 300,
+    "year": 2016,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Pro Evolution Soccer 2017",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 301,
+    "year": 2016,
+    "category": "Best Multiplayer",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 302,
+    "year": 2016,
+    "category": "Best Multiplayer",
+    "nominee": "Battlefield 1",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 303,
+    "year": 2016,
+    "category": "Best Multiplayer",
+    "nominee": "Gears of War 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 304,
+    "year": 2016,
+    "category": "Best Multiplayer",
+    "nominee": "Overcooked",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 305,
+    "year": 2016,
+    "category": "Best Multiplayer",
+    "nominee": "Titanfall 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 306,
+    "year": 2016,
+    "category": "Best Multiplayer",
+    "nominee": "Tom Clancy's Rainbow Six Siege",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 307,
+    "year": 2016,
+    "category": "Most Anticipated Game",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 308,
+    "year": 2016,
+    "category": "Most Anticipated Game",
+    "nominee": "God of War",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 309,
+    "year": 2016,
+    "category": "Most Anticipated Game",
+    "nominee": "Horizon Zero Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 310,
+    "year": 2016,
+    "category": "Most Anticipated Game",
+    "nominee": "Mass Effect: Andromeda",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 311,
+    "year": 2016,
+    "category": "Most Anticipated Game",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 312,
+    "year": 2016,
+    "category": "Trending Gamer",
+    "nominee": "Boogie2988",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 313,
+    "year": 2016,
+    "category": "Trending Gamer",
+    "nominee": "AngryJoeShow",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 314,
+    "year": 2016,
+    "category": "Trending Gamer",
+    "nominee": "Danny O'Dwyer",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 315,
+    "year": 2016,
+    "category": "Trending Gamer",
+    "nominee": "JackSepticEye",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 316,
+    "year": 2016,
+    "category": "Trending Gamer",
+    "nominee": "Lirik",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 317,
+    "year": 2016,
+    "category": "Best Fan Creation",
+    "nominee": "Enderal: The Shards of Order",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 318,
+    "year": 2016,
+    "category": "Best Fan Creation",
+    "nominee": "Brutal Doom",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 319,
+    "year": 2016,
+    "category": "ESports Player of the Year",
+    "nominee": "Marcelo \"Coldzera\" David (SK Gaming Counter-Strike: Global Offensive)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 320,
+    "year": 2016,
+    "category": "ESports Player of the Year",
+    "nominee": "Lee \"Faker\" Sang-hyeok (SK Telecom T1 League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 321,
+    "year": 2016,
+    "category": "ESports Player of the Year",
+    "nominee": "Hyun \"ByuN\" Woo (StarCraft II)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 322,
+    "year": 2016,
+    "category": "ESports Player of the Year",
+    "nominee": "Lee \"Infiltration\" Seon-woo (Team Razer Street Fighter V)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 323,
+    "year": 2016,
+    "category": "ESports Player of the Year",
+    "nominee": "Juan \"Hungrybox\" Debiedma (Team Liquid Super Smash Bros. Melee)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 324,
+    "year": 2016,
+    "category": "ESports Team of the Year",
+    "nominee": "Cloud9",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 325,
+    "year": 2016,
+    "category": "ESports Team of the Year",
+    "nominee": "SK Telecom T1",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 326,
+    "year": 2016,
+    "category": "ESports Team of the Year",
+    "nominee": "Wings Gaming",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 327,
+    "year": 2016,
+    "category": "ESports Team of the Year",
+    "nominee": "SK Gaming",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 328,
+    "year": 2016,
+    "category": "ESports Team of the Year",
+    "nominee": "ROX Tigers",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 329,
+    "year": 2016,
+    "category": "ESports Game of the Year",
+    "nominee": "Overwatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 330,
+    "year": 2016,
+    "category": "ESports Game of the Year",
+    "nominee": "Counter-Strike: Global Offensive",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 331,
+    "year": 2016,
+    "category": "ESports Game of the Year",
+    "nominee": "Dota 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 332,
+    "year": 2016,
+    "category": "ESports Game of the Year",
+    "nominee": "League of Legends",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 333,
+    "year": 2016,
+    "category": "ESports Game of the Year",
+    "nominee": "Street Fighter V",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 334,
+    "year": 2016,
+    "category": "Industry Icon Award",
+    "nominee": "Hideo Kojima",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 335,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 336,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "Horizon Zero Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 337,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "Persona 5",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 338,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "PlayerUnknown's Battlegrounds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 339,
+    "year": 2017,
+    "category": "Game of the Year",
+    "nominee": "Super Mario Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 340,
+    "year": 2017,
+    "category": "Best Game Direction",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 341,
+    "year": 2017,
+    "category": "Best Game Direction",
+    "nominee": "Horizon Zero Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 342,
+    "year": 2017,
+    "category": "Best Game Direction",
+    "nominee": "Resident Evil 7: Biohazard",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 343,
+    "year": 2017,
+    "category": "Best Game Direction",
+    "nominee": "Super Mario Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 344,
+    "year": 2017,
+    "category": "Best Game Direction",
+    "nominee": "Wolfenstein II: The New Colossus - Jens Matthies",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 345,
+    "year": 2017,
+    "category": "Best Narrative",
+    "nominee": "What Remains of Edith Finch",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 346,
+    "year": 2017,
+    "category": "Best Narrative",
+    "nominee": "Hellblade: Senua's Sacrifice",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 347,
+    "year": 2017,
+    "category": "Best Narrative",
+    "nominee": "Horizon Zero Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 348,
+    "year": 2017,
+    "category": "Best Narrative",
+    "nominee": "Nier: Automata",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 349,
+    "year": 2017,
+    "category": "Best Narrative",
+    "nominee": "Wolfenstein II: The New Colossus",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 350,
+    "year": 2017,
+    "category": "Best Art Direction",
+    "nominee": "Cuphead",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 351,
+    "year": 2017,
+    "category": "Best Art Direction",
+    "nominee": "Destiny 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 352,
+    "year": 2017,
+    "category": "Best Art Direction",
+    "nominee": "Horizon Zero Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 353,
+    "year": 2017,
+    "category": "Best Art Direction",
+    "nominee": "Persona 5",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 354,
+    "year": 2017,
+    "category": "Best Art Direction",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 355,
+    "year": 2017,
+    "category": "Best Score/Music",
+    "nominee": "Nier: Automata",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 356,
+    "year": 2017,
+    "category": "Best Score/Music",
+    "nominee": "Cuphead",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 357,
+    "year": 2017,
+    "category": "Best Score/Music",
+    "nominee": "Destiny 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 358,
+    "year": 2017,
+    "category": "Best Score/Music",
+    "nominee": "Persona 5",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 359,
+    "year": 2017,
+    "category": "Best Score/Music",
+    "nominee": "Super Mario Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 360,
+    "year": 2017,
+    "category": "Best Score/Music",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 361,
+    "year": 2017,
+    "category": "Best Audio Design",
+    "nominee": "Hellblade: Senua's Sacrifice",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 362,
+    "year": 2017,
+    "category": "Best Audio Design",
+    "nominee": "Destiny 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 363,
+    "year": 2017,
+    "category": "Best Audio Design",
+    "nominee": "Resident Evil 7: Biohazard",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 364,
+    "year": 2017,
+    "category": "Best Audio Design",
+    "nominee": "Super Mario Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 365,
+    "year": 2017,
+    "category": "Best Audio Design",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 366,
+    "year": 2017,
+    "category": "Best Performance",
+    "nominee": "Melina Juergens as Senua",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 367,
+    "year": 2017,
+    "category": "Best Performance",
+    "nominee": "Ashly Burch as Aloy",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 368,
+    "year": 2017,
+    "category": "Best Performance",
+    "nominee": "Brian Bloom as B.J. Blazkowicz",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 369,
+    "year": 2017,
+    "category": "Best Performance",
+    "nominee": "Claudia Black as Chloe Frazer",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 370,
+    "year": 2017,
+    "category": "Best Performance",
+    "nominee": "Laura Bailey as Nadine Ross",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 371,
+    "year": 2017,
+    "category": "Games for Impact",
+    "nominee": "Hellblade: Senua's Sacrifice",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 372,
+    "year": 2017,
+    "category": "Games for Impact",
+    "nominee": "Bury Me, My Love",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 373,
+    "year": 2017,
+    "category": "Games for Impact",
+    "nominee": "Life is Strange: Before the Storm",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 374,
+    "year": 2017,
+    "category": "Games for Impact",
+    "nominee": "Night in the Woods",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 375,
+    "year": 2017,
+    "category": "Games for Impact",
+    "nominee": "Please Knock on My Door",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 376,
+    "year": 2017,
+    "category": "Games for Impact",
+    "nominee": "What Remains of Edith Finch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 377,
+    "year": 2017,
+    "category": "Best Ongoing Game",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 378,
+    "year": 2017,
+    "category": "Best Ongoing Game",
+    "nominee": "Destiny 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 379,
+    "year": 2017,
+    "category": "Best Ongoing Game",
+    "nominee": "Grand Theft Auto Online",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 380,
+    "year": 2017,
+    "category": "Best Ongoing Game",
+    "nominee": "PlayerUnknown's Battlegrounds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 381,
+    "year": 2017,
+    "category": "Best Ongoing Game",
+    "nominee": "Tom Clancy's Rainbow Six Siege",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 382,
+    "year": 2017,
+    "category": "Best Ongoing Game",
+    "nominee": "Warframe",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 383,
+    "year": 2017,
+    "category": "Best Independent Game",
+    "nominee": "Cuphead",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 384,
+    "year": 2017,
+    "category": "Best Independent Game",
+    "nominee": "Hellblade: Senua's Sacrifice",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 385,
+    "year": 2017,
+    "category": "Best Independent Game",
+    "nominee": "Night in the Woods",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 386,
+    "year": 2017,
+    "category": "Best Independent Game",
+    "nominee": "Pyre",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 387,
+    "year": 2017,
+    "category": "Best Independent Game",
+    "nominee": "What Remains of Edith Finch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 388,
+    "year": 2017,
+    "category": "Best Mobile Game",
+    "nominee": "Monument Valley 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 389,
+    "year": 2017,
+    "category": "Best Mobile Game",
+    "nominee": "Fire Emblem Heroes",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 390,
+    "year": 2017,
+    "category": "Best Mobile Game",
+    "nominee": "Hidden Folks",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 391,
+    "year": 2017,
+    "category": "Best Mobile Game",
+    "nominee": "Old Man's Journey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 392,
+    "year": 2017,
+    "category": "Best Mobile Game",
+    "nominee": "Super Mario Run",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 393,
+    "year": 2017,
+    "category": "Best Handheld Game",
+    "nominee": "Metroid: Samus Returns",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 394,
+    "year": 2017,
+    "category": "Best Handheld Game",
+    "nominee": "Ever Oasis",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 395,
+    "year": 2017,
+    "category": "Best Handheld Game",
+    "nominee": "Fire Emblem Echoes: Shadows of Valentia",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 396,
+    "year": 2017,
+    "category": "Best Handheld Game",
+    "nominee": "Monster Hunter Stories",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 397,
+    "year": 2017,
+    "category": "Best Handheld Game",
+    "nominee": "Poochy and Yoshi's Woolly World",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 398,
+    "year": 2017,
+    "category": "Best VR/AR Game",
+    "nominee": "Resident Evil 7: Biohazard",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 399,
+    "year": 2017,
+    "category": "Best VR/AR Game",
+    "nominee": "Farpoint",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 400,
+    "year": 2017,
+    "category": "Best VR/AR Game",
+    "nominee": "Lone Echo",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 401,
+    "year": 2017,
+    "category": "Best VR/AR Game",
+    "nominee": "Star Trek: Bridge Crew",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 402,
+    "year": 2017,
+    "category": "Best VR/AR Game",
+    "nominee": "Superhot VR",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 403,
+    "year": 2017,
+    "category": "Best Action Game",
+    "nominee": "Wolfenstein II: The New Colossus",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 404,
+    "year": 2017,
+    "category": "Best Action Game",
+    "nominee": "Cuphead",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 405,
+    "year": 2017,
+    "category": "Best Action Game",
+    "nominee": "Destiny 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 406,
+    "year": 2017,
+    "category": "Best Action Game",
+    "nominee": "Nioh",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 407,
+    "year": 2017,
+    "category": "Best Action Game",
+    "nominee": "Prey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 408,
+    "year": 2017,
+    "category": "Best Action/Adventure",
+    "nominee": "The Legend of Zelda: Breath of the Wild",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 409,
+    "year": 2017,
+    "category": "Best Action/Adventure",
+    "nominee": "Assassin's Creed: Origins",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 410,
+    "year": 2017,
+    "category": "Best Action/Adventure",
+    "nominee": "Horizon Zero Dawn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 411,
+    "year": 2017,
+    "category": "Best Action/Adventure",
+    "nominee": "Super Mario Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 412,
+    "year": 2017,
+    "category": "Best Action/Adventure",
+    "nominee": "Uncharted: The Lost Legacy",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 413,
+    "year": 2017,
+    "category": "Best Role Playing Game",
+    "nominee": "Persona 5",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 414,
+    "year": 2017,
+    "category": "Best Role Playing Game",
+    "nominee": "Divinity: Original Sin II",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 415,
+    "year": 2017,
+    "category": "Best Role Playing Game",
+    "nominee": "Final Fantasy XV",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 416,
+    "year": 2017,
+    "category": "Best Role Playing Game",
+    "nominee": "Nier: Automata",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 417,
+    "year": 2017,
+    "category": "Best Role Playing Game",
+    "nominee": "South Park: The Fractured But Whole",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 418,
+    "year": 2017,
+    "category": "Best Fighting Game",
+    "nominee": "Injustice 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 419,
+    "year": 2017,
+    "category": "Best Fighting Game",
+    "nominee": "ARMS",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 420,
+    "year": 2017,
+    "category": "Best Fighting Game",
+    "nominee": "Marvel vs. Capcom: Infinite",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 421,
+    "year": 2017,
+    "category": "Best Fighting Game",
+    "nominee": "Nidhogg 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 422,
+    "year": 2017,
+    "category": "Best Fighting Game",
+    "nominee": "Tekken 7",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 423,
+    "year": 2017,
+    "category": "Best Family Game",
+    "nominee": "Super Mario Odyssey",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 424,
+    "year": 2017,
+    "category": "Best Family Game",
+    "nominee": "Mario Kart 8 Deluxe",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 425,
+    "year": 2017,
+    "category": "Best Family Game",
+    "nominee": "Mario + Rabbids Kingdom Battle",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 426,
+    "year": 2017,
+    "category": "Best Family Game",
+    "nominee": "Sonic Mania",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 427,
+    "year": 2017,
+    "category": "Best Family Game",
+    "nominee": "Splatoon 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 428,
+    "year": 2017,
+    "category": "Best Strategy Game",
+    "nominee": "Mario + Rabbids Kingdom Battle",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 429,
+    "year": 2017,
+    "category": "Best Strategy Game",
+    "nominee": "Halo Wars 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 430,
+    "year": 2017,
+    "category": "Best Strategy Game",
+    "nominee": "Total War: Warhammer II",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 431,
+    "year": 2017,
+    "category": "Best Strategy Game",
+    "nominee": "Tooth and Tail",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 432,
+    "year": 2017,
+    "category": "Best Strategy Game",
+    "nominee": "XCOM 2: War of the Chosen",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 433,
+    "year": 2017,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Forza Motorsport 7",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 434,
+    "year": 2017,
+    "category": "Best Sports/Racing Game",
+    "nominee": "FIFA 18",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 435,
+    "year": 2017,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Gran Turismo Sport",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 436,
+    "year": 2017,
+    "category": "Best Sports/Racing Game",
+    "nominee": "NBA 2K18",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 437,
+    "year": 2017,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Pro Evolution Soccer 2018",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 438,
+    "year": 2017,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Project Cars 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 439,
+    "year": 2017,
+    "category": "Best Multiplayer",
+    "nominee": "PlayerUnknown's Battlegrounds",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 440,
+    "year": 2017,
+    "category": "Best Multiplayer",
+    "nominee": "Call of Duty: WWII",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 441,
+    "year": 2017,
+    "category": "Best Multiplayer",
+    "nominee": "Destiny 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 442,
+    "year": 2017,
+    "category": "Best Multiplayer",
+    "nominee": "Fortnite",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 443,
+    "year": 2017,
+    "category": "Best Multiplayer",
+    "nominee": "Mario Kart 8 Deluxe",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 444,
+    "year": 2017,
+    "category": "Best Multiplayer",
+    "nominee": "Splatoon 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 445,
+    "year": 2017,
+    "category": "Student Game Award",
+    "nominee": "Level Squared",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 446,
+    "year": 2017,
+    "category": "Student Game Award",
+    "nominee": "Falling Sky",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 447,
+    "year": 2017,
+    "category": "Student Game Award",
+    "nominee": "From Light",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 448,
+    "year": 2017,
+    "category": "Student Game Award",
+    "nominee": "Hollowed",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 449,
+    "year": 2017,
+    "category": "Student Game Award",
+    "nominee": "Impulsion",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 450,
+    "year": 2017,
+    "category": "Student Game Award",
+    "nominee": "Meaning",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 451,
+    "year": 2017,
+    "category": "Best Debut Indie Game",
+    "nominee": "Cuphead",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 452,
+    "year": 2017,
+    "category": "Best Debut Indie Game",
+    "nominee": "Golf Story",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 453,
+    "year": 2017,
+    "category": "Best Debut Indie Game",
+    "nominee": "Hollow Knight",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 454,
+    "year": 2017,
+    "category": "Best Debut Indie Game",
+    "nominee": "Mr. Shifty",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 455,
+    "year": 2017,
+    "category": "Best Debut Indie Game",
+    "nominee": "Slime Rancher",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 456,
+    "year": 2017,
+    "category": "Industry Icon Award",
+    "nominee": "Carol Shaw",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 457,
+    "year": 2017,
+    "category": "Most Anticipated Game",
+    "nominee": "The Last of Us Part II",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 458,
+    "year": 2017,
+    "category": "Most Anticipated Game",
+    "nominee": "God of War",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 459,
+    "year": 2017,
+    "category": "Most Anticipated Game",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 460,
+    "year": 2017,
+    "category": "Most Anticipated Game",
+    "nominee": "Monster Hunter: World",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 461,
+    "year": 2017,
+    "category": "Most Anticipated Game",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 462,
+    "year": 2017,
+    "category": "Trending Gamer",
+    "nominee": "Guy Beahm (\"Dr DisRespect\")",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 463,
+    "year": 2017,
+    "category": "Trending Gamer",
+    "nominee": "Andrea Rene (What's Good Games)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 464,
+    "year": 2017,
+    "category": "Trending Gamer",
+    "nominee": "Clint Lexa (\"Halfcoordinated\")",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 465,
+    "year": 2017,
+    "category": "Trending Gamer",
+    "nominee": "Mike Grzesiek (\"Shroud\")",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 466,
+    "year": 2017,
+    "category": "Trending Gamer",
+    "nominee": "Steven Spohn (AbleGamers)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 467,
+    "year": 2017,
+    "category": "Best eSports Game",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 468,
+    "year": 2017,
+    "category": "Best eSports Game",
+    "nominee": "Counter-Strike: Global Offensive",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 469,
+    "year": 2017,
+    "category": "Best eSports Game",
+    "nominee": "Dota 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 470,
+    "year": 2017,
+    "category": "Best eSports Game",
+    "nominee": "League of Legends",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 471,
+    "year": 2017,
+    "category": "Best eSports Game",
+    "nominee": "Rocket League",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 472,
+    "year": 2017,
+    "category": "Best eSports Player",
+    "nominee": "Lee Sang-hyeok \"Faker\" (SK Telecom 1, League of Legends)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 473,
+    "year": 2017,
+    "category": "Best eSports Player",
+    "nominee": "Marcelo \"coldzera\" David (SK Gaming, Counter-Strike: GO)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 474,
+    "year": 2017,
+    "category": "Best eSports Player",
+    "nominee": "Nikola \"NiKo\" Kovac (FaZe Clan, Counter-Strike: GO)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 475,
+    "year": 2017,
+    "category": "Best eSports Player",
+    "nominee": "Je-hong \"ryujehong” Ryu (Seoul Dynasty, Overwatch)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 476,
+    "year": 2017,
+    "category": "Best eSports Player",
+    "nominee": "Kuro \"KuroKy\" Salehi Takhasomi (Team Liquid, Dota 2)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 477,
+    "year": 2017,
+    "category": "Best eSports Team",
+    "nominee": "Cloud9",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 478,
+    "year": 2017,
+    "category": "Best eSports Team",
+    "nominee": "FaZe Clan",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 479,
+    "year": 2017,
+    "category": "Best eSports Team",
+    "nominee": "Lunatic-Hai",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 480,
+    "year": 2017,
+    "category": "Best eSports Team",
+    "nominee": "SK Telecom T1",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 481,
+    "year": 2017,
+    "category": "Best eSports Team",
+    "nominee": "Team Liquid",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 482,
+    "year": 2017,
+    "category": "Chinese Fan Game Award",
+    "nominee": "jx3 HD",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 483,
+    "year": 2017,
+    "category": "Chinese Fan Game Award",
+    "nominee": "Honor of Kings",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 484,
+    "year": 2017,
+    "category": "Chinese Fan Game Award",
+    "nominee": "ICEY",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 485,
+    "year": 2017,
+    "category": "Chinese Fan Game Award",
+    "nominee": "Gumballs & Dungeons",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 486,
+    "year": 2017,
+    "category": "Chinese Fan Game Award",
+    "nominee": "Monument Valley 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 487,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "God of War",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 488,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Assassin's Creed Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 489,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Celeste",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 490,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 491,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Monster Hunter: World",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 492,
+    "year": 2018,
+    "category": "Game of the Year",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 493,
+    "year": 2018,
+    "category": "Best Game Direction",
+    "nominee": "God of War",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 494,
+    "year": 2018,
+    "category": "Best Game Direction",
+    "nominee": "A Way Out",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 495,
+    "year": 2018,
+    "category": "Best Game Direction",
+    "nominee": "Detroit: Become Human",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 496,
+    "year": 2018,
+    "category": "Best Game Direction",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 497,
+    "year": 2018,
+    "category": "Best Game Direction",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 498,
+    "year": 2018,
+    "category": "Best Ongoing Game",
+    "nominee": "Fortnite",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 499,
+    "year": 2018,
+    "category": "Best Ongoing Game",
+    "nominee": "Destiny 2: Forsaken",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 500,
+    "year": 2018,
+    "category": "Best Ongoing Game",
+    "nominee": "No Man’s Sky",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 501,
+    "year": 2018,
+    "category": "Best Ongoing Game",
+    "nominee": "Overwatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 502,
+    "year": 2018,
+    "category": "Best Ongoing Game",
+    "nominee": "Tom Clancy's Rainbow Six Siege",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 503,
+    "year": 2018,
+    "category": "Best Narrative",
+    "nominee": "Red Dead Redemption 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 504,
+    "year": 2018,
+    "category": "Best Narrative",
+    "nominee": "Detroit: Become Human",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 505,
+    "year": 2018,
+    "category": "Best Narrative",
+    "nominee": "God of War",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 506,
+    "year": 2018,
+    "category": "Best Narrative",
+    "nominee": "Life Is Strange 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 507,
+    "year": 2018,
+    "category": "Best Narrative",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 508,
+    "year": 2018,
+    "category": "Best Art Direction",
+    "nominee": "Return of the Obra Dinn",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 509,
+    "year": 2018,
+    "category": "Best Art Direction",
+    "nominee": "Assassin's Creed Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 510,
+    "year": 2018,
+    "category": "Best Art Direction",
+    "nominee": "God of War",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 511,
+    "year": 2018,
+    "category": "Best Art Direction",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 512,
+    "year": 2018,
+    "category": "Best Art Direction",
+    "nominee": "Octopath Traveler",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 513,
+    "year": 2018,
+    "category": "Best Score/Music",
+    "nominee": "Red Dead Redemption 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 514,
+    "year": 2018,
+    "category": "Best Score/Music",
+    "nominee": "Celeste",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 515,
+    "year": 2018,
+    "category": "Best Score/Music",
+    "nominee": "God of War",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 516,
+    "year": 2018,
+    "category": "Best Score/Music",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 517,
+    "year": 2018,
+    "category": "Best Score/Music",
+    "nominee": "Ni no Kuni II: Revenant Kingdom",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 518,
+    "year": 2018,
+    "category": "Best Score/Music",
+    "nominee": "Octopath Traveler",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 519,
+    "year": 2018,
+    "category": "Best Audio Design",
+    "nominee": "Red Dead Redemption 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 520,
+    "year": 2018,
+    "category": "Best Audio Design",
+    "nominee": "Call of Duty: Black Ops 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 521,
+    "year": 2018,
+    "category": "Best Audio Design",
+    "nominee": "Forza Horizon 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 522,
+    "year": 2018,
+    "category": "Best Audio Design",
+    "nominee": "God of War",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 523,
+    "year": 2018,
+    "category": "Best Audio Design",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 524,
+    "year": 2018,
+    "category": "Best Performance",
+    "nominee": "Roger Clark as Arthur Morgan (Red Dead Redemption 2)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 525,
+    "year": 2018,
+    "category": "Best Performance",
+    "nominee": "Bryan Dechart as Connor (Detroit: Become Human)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 526,
+    "year": 2018,
+    "category": "Best Performance",
+    "nominee": "Christopher Judge as Kratos (God of War)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 527,
+    "year": 2018,
+    "category": "Best Performance",
+    "nominee": "Melissanthi Mahut as Kassandra (Assassin's Creed Odyssey)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 528,
+    "year": 2018,
+    "category": "Best Performance",
+    "nominee": "Yuri Lowenthal as Spider-Man (Marvel's Spider-Man)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 529,
+    "year": 2018,
+    "category": "Games for Impact",
+    "nominee": "Celeste",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 530,
+    "year": 2018,
+    "category": "Games for Impact",
+    "nominee": "11-11 Memories Retold",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 531,
+    "year": 2018,
+    "category": "Games for Impact",
+    "nominee": "Florence",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 532,
+    "year": 2018,
+    "category": "Games for Impact",
+    "nominee": "Life Is Strange 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 533,
+    "year": 2018,
+    "category": "Games for Impact",
+    "nominee": "The Missing: J.J. Macfield and the Island of Memories",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 534,
+    "year": 2018,
+    "category": "Best Independent Game",
+    "nominee": "Celeste",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 535,
+    "year": 2018,
+    "category": "Best Independent Game",
+    "nominee": "Dead Cells",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 536,
+    "year": 2018,
+    "category": "Best Independent Game",
+    "nominee": "Into the Breach",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 537,
+    "year": 2018,
+    "category": "Best Independent Game",
+    "nominee": "Return of the Obra Dinn",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 538,
+    "year": 2018,
+    "category": "Best Independent Game",
+    "nominee": "The Messenger",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 539,
+    "year": 2018,
+    "category": "Best Mobile Game",
+    "nominee": "Florence",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 540,
+    "year": 2018,
+    "category": "Best Mobile Game",
+    "nominee": "Donut County",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 541,
+    "year": 2018,
+    "category": "Best Mobile Game",
+    "nominee": "Fortnite",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 542,
+    "year": 2018,
+    "category": "Best Mobile Game",
+    "nominee": "PUBG Mobile",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 543,
+    "year": 2018,
+    "category": "Best Mobile Game",
+    "nominee": "Reigns: Game of Thrones",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 544,
+    "year": 2018,
+    "category": "Best VR/AR Game",
+    "nominee": "Astro Bot Rescue Mission",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 545,
+    "year": 2018,
+    "category": "Best VR/AR Game",
+    "nominee": "Beat Saber",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 546,
+    "year": 2018,
+    "category": "Best VR/AR Game",
+    "nominee": "Firewall: Zero Hour",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 547,
+    "year": 2018,
+    "category": "Best VR/AR Game",
+    "nominee": "Moss",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 548,
+    "year": 2018,
+    "category": "Best VR/AR Game",
+    "nominee": "Tetris Effect",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 549,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Dead Cells",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 550,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Call of Duty: Black Ops 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 551,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Destiny 2: Forsaken",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 552,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Far Cry 5",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 553,
+    "year": 2018,
+    "category": "Best Action Game",
+    "nominee": "Mega Man 11",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 554,
+    "year": 2018,
+    "category": "Best Action/Adventure Game",
+    "nominee": "God of War",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 555,
+    "year": 2018,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Assassin's Creed Odyssey",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 556,
+    "year": 2018,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Marvel's Spider-Man",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 557,
+    "year": 2018,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Red Dead Redemption 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 558,
+    "year": 2018,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Shadow of the Tomb Raider",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 559,
+    "year": 2018,
+    "category": "Best Role Playing Game",
+    "nominee": "Monster Hunter: World",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 560,
+    "year": 2018,
+    "category": "Best Role Playing Game",
+    "nominee": "Dragon Quest XI",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 561,
+    "year": 2018,
+    "category": "Best Role Playing Game",
+    "nominee": "Ni no Kuni II: Revenant Kingdom",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 562,
+    "year": 2018,
+    "category": "Best Role Playing Game",
+    "nominee": "Octopath Traveler",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 563,
+    "year": 2018,
+    "category": "Best Role Playing Game",
+    "nominee": "Pillars of Eternity II: Deadfire",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 564,
+    "year": 2018,
+    "category": "Best Fighting Game",
+    "nominee": "Dragon Ball FighterZ",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 565,
+    "year": 2018,
+    "category": "Best Fighting Game",
+    "nominee": "BlazBlue: Cross Tag Battle",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 566,
+    "year": 2018,
+    "category": "Best Fighting Game",
+    "nominee": "Soulcalibur VI",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 567,
+    "year": 2018,
+    "category": "Best Fighting Game",
+    "nominee": "Street Fighter V: Arcade Edition",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 568,
+    "year": 2018,
+    "category": "Best Family Game",
+    "nominee": "Overcooked 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 569,
+    "year": 2018,
+    "category": "Best Family Game",
+    "nominee": "Mario Tennis Aces",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 570,
+    "year": 2018,
+    "category": "Best Family Game",
+    "nominee": "Nintendo Labo",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 571,
+    "year": 2018,
+    "category": "Best Family Game",
+    "nominee": "Starlink: Battle for Atlas",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 572,
+    "year": 2018,
+    "category": "Best Family Game",
+    "nominee": "Super Mario Party",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 573,
+    "year": 2018,
+    "category": "Best Strategy Game",
+    "nominee": "Into the Breach",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 574,
+    "year": 2018,
+    "category": "Best Strategy Game",
+    "nominee": "The Banner Saga 3",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 575,
+    "year": 2018,
+    "category": "Best Strategy Game",
+    "nominee": "BattleTech",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 576,
+    "year": 2018,
+    "category": "Best Strategy Game",
+    "nominee": "Frostpunk",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 577,
+    "year": 2018,
+    "category": "Best Strategy Game",
+    "nominee": "Valkyria Chronicles 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 578,
+    "year": 2018,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Forza Horizon 4",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 579,
+    "year": 2018,
+    "category": "Best Sports/Racing Game",
+    "nominee": "FIFA 19",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 580,
+    "year": 2018,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Mario Tennis Aces",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 581,
+    "year": 2018,
+    "category": "Best Sports/Racing Game",
+    "nominee": "NBA 2K19",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 582,
+    "year": 2018,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Pro Evolution Soccer 2019",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 583,
+    "year": 2018,
+    "category": "Best Multiplayer Game",
+    "nominee": "Fortnite",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 584,
+    "year": 2018,
+    "category": "Best Multiplayer Game",
+    "nominee": "Call of Duty: Black Ops 4",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 585,
+    "year": 2018,
+    "category": "Best Multiplayer Game",
+    "nominee": "Destiny 2: Forsaken",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 586,
+    "year": 2018,
+    "category": "Best Multiplayer Game",
+    "nominee": "Monster Hunter: World",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 587,
+    "year": 2018,
+    "category": "Best Multiplayer Game",
+    "nominee": "Sea of Thieves",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 588,
+    "year": 2018,
+    "category": "Best Student Game",
+    "nominee": "Combat 2018",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 589,
+    "year": 2018,
+    "category": "Best Student Game",
+    "nominee": "Dash Quasar",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 590,
+    "year": 2018,
+    "category": "Best Student Game",
+    "nominee": "JERA",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 591,
+    "year": 2018,
+    "category": "Best Student Game",
+    "nominee": "LIFF",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 592,
+    "year": 2018,
+    "category": "Best Student Game",
+    "nominee": "RE: Charge",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 593,
+    "year": 2018,
+    "category": "Best Debut Indie Game",
+    "nominee": "The Messenger",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 594,
+    "year": 2018,
+    "category": "Best Debut Indie Game",
+    "nominee": "Donut County",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 595,
+    "year": 2018,
+    "category": "Best Debut Indie Game",
+    "nominee": "Florence",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 596,
+    "year": 2018,
+    "category": "Best Debut Indie Game",
+    "nominee": "Moss",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 597,
+    "year": 2018,
+    "category": "Best Debut Indie Game",
+    "nominee": "Yoku's Island Express",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 598,
+    "year": 2018,
+    "category": "Best Esports Game",
+    "nominee": "Overwatch",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 599,
+    "year": 2018,
+    "category": "Best Esports Game",
+    "nominee": "Counter-Strike: Global Offensive",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 600,
+    "year": 2018,
+    "category": "Best Esports Game",
+    "nominee": "Dota 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 601,
+    "year": 2018,
+    "category": "Best Esports Game",
+    "nominee": "Fortnite",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 602,
+    "year": 2018,
+    "category": "Best Esports Game",
+    "nominee": "League of Legends",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 603,
+    "year": 2018,
+    "category": "Best Esports Player",
+    "nominee": "Dominique \"SonicFox\" McLean (Echo Fox)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 604,
+    "year": 2018,
+    "category": "Best Esports Player",
+    "nominee": "Hajime \"Tokido\" Taniguchi (Echo Fox)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 605,
+    "year": 2018,
+    "category": "Best Esports Player",
+    "nominee": "Jian \"Uzi\" Zi-Hao (Royal Never Give Up)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 606,
+    "year": 2018,
+    "category": "Best Esports Player",
+    "nominee": "Oleksandr \"s1mple\" Kostyliev (Natus Vincere)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 607,
+    "year": 2018,
+    "category": "Best Esports Player",
+    "nominee": "Sung-hygeon \"JJoNak\" Bang (New York Excelsior)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 608,
+    "year": 2018,
+    "category": "Best Esports Team",
+    "nominee": "Cloud9 (League of Legends)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 609,
+    "year": 2018,
+    "category": "Best Esports Team",
+    "nominee": "Astralis (Counter-Strike: Global Offensive)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 610,
+    "year": 2018,
+    "category": "Best Esports Team",
+    "nominee": "Fnatic (League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 611,
+    "year": 2018,
+    "category": "Best Esports Team",
+    "nominee": "London Spitfire (Overwatch League)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 612,
+    "year": 2018,
+    "category": "Best Esports Team",
+    "nominee": "OG (Dota 2)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 613,
+    "year": 2018,
+    "category": "Best Esports Coach",
+    "nominee": "Bok \"Reapered\" Han-gyu (Cloud9)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 614,
+    "year": 2018,
+    "category": "Best Esports Coach",
+    "nominee": "Christian \"ppasarel\" Banaseanu (OG)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 615,
+    "year": 2018,
+    "category": "Best Esports Coach",
+    "nominee": "Danny \"zonic\" Sorensen (Astralis)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 616,
+    "year": 2018,
+    "category": "Best Esports Coach",
+    "nominee": "Dylan Falco (Fnatic)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 617,
+    "year": 2018,
+    "category": "Best Esports Coach",
+    "nominee": "Jakob \"YamatoCannon\" Mebdi (Team Vitality)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 618,
+    "year": 2018,
+    "category": "Best Esports Coach",
+    "nominee": "Janko \"YNk\" Paunovic (MiBR)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 619,
+    "year": 2018,
+    "category": "Best Esports Event",
+    "nominee": "2018 League of Legends World Championship",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 620,
+    "year": 2018,
+    "category": "Best Esports Event",
+    "nominee": "ELEAGUE Major: Boston 2018",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 621,
+    "year": 2018,
+    "category": "Best Esports Event",
+    "nominee": "Evo 2018",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 622,
+    "year": 2018,
+    "category": "Best Esports Event",
+    "nominee": "2018 Overwatch League Grand Finals",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 623,
+    "year": 2018,
+    "category": "Best Esports Event",
+    "nominee": "The International 2018",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 624,
+    "year": 2018,
+    "category": "Best Esports Host",
+    "nominee": "Eefje \"Sjokz\" Depoortere",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 625,
+    "year": 2018,
+    "category": "Best Esports Host",
+    "nominee": "Alex \"Goldenboy\" Mendez",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 626,
+    "year": 2018,
+    "category": "Best Esports Host",
+    "nominee": "Alex \"Machine\" Richardson",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 627,
+    "year": 2018,
+    "category": "Best Esports Host",
+    "nominee": "Anders Blume",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 628,
+    "year": 2018,
+    "category": "Best Esports Host",
+    "nominee": "Paul \"Redeye\" Chaloner",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 629,
+    "year": 2018,
+    "category": "Best Esports Moment",
+    "nominee": "Cloud9 comeback win in triple OT vs Faze (ELEAGUE Major: Boston 2018)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 630,
+    "year": 2018,
+    "category": "Best Esports Moment",
+    "nominee": "G2 beating RNG (League of Legends World Championship)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 631,
+    "year": 2018,
+    "category": "Best Esports Moment",
+    "nominee": "KT vs IG base race (League of Legends World Championship)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 632,
+    "year": 2018,
+    "category": "Best Esports Moment",
+    "nominee": "OG's massive upset of LGD (The International 2018)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 633,
+    "year": 2018,
+    "category": "Best Esports Moment",
+    "nominee": "SonicFox side switch against Go1 (Evo 2018)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 634,
+    "year": 2018,
+    "category": "Content Creator of the Year",
+    "nominee": "Ninja",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 635,
+    "year": 2018,
+    "category": "Content Creator of the Year",
+    "nominee": "Dr. Lupo",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 636,
+    "year": 2018,
+    "category": "Content Creator of the Year",
+    "nominee": "Pokimane",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 637,
+    "year": 2018,
+    "category": "Content Creator of the Year",
+    "nominee": "Willyrex",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 638,
+    "year": 2018,
+    "category": "Industry Icon Award",
+    "nominee": "Greg Thomas (Visual Concepts)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 639,
+    "year": 2018,
+    "category": "Global Gaming Citizens",
+    "nominee": "Steven Spohn",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 640,
+    "year": 2018,
+    "category": "Global Gaming Citizens",
+    "nominee": "Sadia Bashir",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 641,
+    "year": 2018,
+    "category": "Global Gaming Citizens",
+    "nominee": "Lual Mayen",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 642,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Sekiro: Shadows Die Twice",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 643,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Control",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 644,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 645,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Resident Evil 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 646,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "Super Smash Bros. Ultimate",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 647,
+    "year": 2019,
+    "category": "Game of the Year",
+    "nominee": "The Outer Worlds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 648,
+    "year": 2019,
+    "category": "Best Game Direction",
+    "nominee": "Death Stranding",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 649,
+    "year": 2019,
+    "category": "Best Game Direction",
+    "nominee": "Control",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 650,
+    "year": 2019,
+    "category": "Best Game Direction",
+    "nominee": "Resident Evil 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 651,
+    "year": 2019,
+    "category": "Best Game Direction",
+    "nominee": "Sekiro: Shadows Die Twice",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 652,
+    "year": 2019,
+    "category": "Best Game Direction",
+    "nominee": "Outer Wilds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 653,
+    "year": 2019,
+    "category": "Best Ongoing Game",
+    "nominee": "Fortnite",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 654,
+    "year": 2019,
+    "category": "Best Ongoing Game",
+    "nominee": "Apex Legends",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 655,
+    "year": 2019,
+    "category": "Best Ongoing Game",
+    "nominee": "Destiny 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 656,
+    "year": 2019,
+    "category": "Best Ongoing Game",
+    "nominee": "Final Fantasy XIV",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 657,
+    "year": 2019,
+    "category": "Best Ongoing Game",
+    "nominee": "Tom Clancy's Rainbow Six Siege",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 658,
+    "year": 2019,
+    "category": "Best Narrative",
+    "nominee": "Disco Elysium",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 659,
+    "year": 2019,
+    "category": "Best Narrative",
+    "nominee": "A Plague Tale: Innocence",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 660,
+    "year": 2019,
+    "category": "Best Narrative",
+    "nominee": "Control",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 661,
+    "year": 2019,
+    "category": "Best Narrative",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 662,
+    "year": 2019,
+    "category": "Best Narrative",
+    "nominee": "The Outer Worlds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 663,
+    "year": 2019,
+    "category": "Best Art Direction",
+    "nominee": "Control",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 664,
+    "year": 2019,
+    "category": "Best Art Direction",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 665,
+    "year": 2019,
+    "category": "Best Art Direction",
+    "nominee": "Gris",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 666,
+    "year": 2019,
+    "category": "Best Art Direction",
+    "nominee": "Sayonara Wild Hearts",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 667,
+    "year": 2019,
+    "category": "Best Art Direction",
+    "nominee": "Sekiro: Shadows Die Twice",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 668,
+    "year": 2019,
+    "category": "Best Art Direction",
+    "nominee": "The Legend of Zelda: Link's Awakening",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 669,
+    "year": 2019,
+    "category": "Best Score/Music",
+    "nominee": "Death Stranding",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 670,
+    "year": 2019,
+    "category": "Best Score/Music",
+    "nominee": "Cadence of Hyrule",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 671,
+    "year": 2019,
+    "category": "Best Score/Music",
+    "nominee": "Devil May Cry 5",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 672,
+    "year": 2019,
+    "category": "Best Score/Music",
+    "nominee": "Kingdom Hearts III",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 673,
+    "year": 2019,
+    "category": "Best Score/Music",
+    "nominee": "Sayonara Wild Hearts",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 674,
+    "year": 2019,
+    "category": "Best Audio Design",
+    "nominee": "Call of Duty: Modern Warfare",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 675,
+    "year": 2019,
+    "category": "Best Audio Design",
+    "nominee": "Control",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 676,
+    "year": 2019,
+    "category": "Best Audio Design",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 677,
+    "year": 2019,
+    "category": "Best Audio Design",
+    "nominee": "Gears 5",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 678,
+    "year": 2019,
+    "category": "Best Audio Design",
+    "nominee": "Resident Evil 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 679,
+    "year": 2019,
+    "category": "Best Audio Design",
+    "nominee": "Sekiro: Shadows Die Twice",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 680,
+    "year": 2019,
+    "category": "Best Performance",
+    "nominee": "Mads Mikkelsen as Cliff",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 681,
+    "year": 2019,
+    "category": "Best Performance",
+    "nominee": "Ashly Burch as Parvati Holcomb (The Outer Worlds)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 682,
+    "year": 2019,
+    "category": "Best Performance",
+    "nominee": "Courtney Hope as Jesse Faden (Control)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 683,
+    "year": 2019,
+    "category": "Best Performance",
+    "nominee": "Laura Bailey as Kait Diaz (Gears 5)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 684,
+    "year": 2019,
+    "category": "Best Performance",
+    "nominee": "Matthew Porretta as Dr. Casper Darling (Control)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 685,
+    "year": 2019,
+    "category": "Best Performance",
+    "nominee": "Norman Reedus as Sam Porter Bridges (Death Stranding)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 686,
+    "year": 2019,
+    "category": "Games for Impact",
+    "nominee": "Gris",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 687,
+    "year": 2019,
+    "category": "Games for Impact",
+    "nominee": "Concrete Genie",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 688,
+    "year": 2019,
+    "category": "Games for Impact",
+    "nominee": "Kind Words",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 689,
+    "year": 2019,
+    "category": "Games for Impact",
+    "nominee": "Life Is Strange 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 690,
+    "year": 2019,
+    "category": "Games for Impact",
+    "nominee": "Sea of Solitude",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 691,
+    "year": 2019,
+    "category": "Best Independent Game",
+    "nominee": "Disco Elysium",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 692,
+    "year": 2019,
+    "category": "Best Independent Game",
+    "nominee": "Baba Is You",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 693,
+    "year": 2019,
+    "category": "Best Independent Game",
+    "nominee": "Katana Zero",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 694,
+    "year": 2019,
+    "category": "Best Independent Game",
+    "nominee": "Outer Wilds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 695,
+    "year": 2019,
+    "category": "Best Independent Game",
+    "nominee": "Untitled Goose Game",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 696,
+    "year": 2019,
+    "category": "Best Mobile Game",
+    "nominee": "Call of Duty: Mobile",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 697,
+    "year": 2019,
+    "category": "Best Mobile Game",
+    "nominee": "Grindstone",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 698,
+    "year": 2019,
+    "category": "Best Mobile Game",
+    "nominee": "Sayonara Wild Hearts",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 699,
+    "year": 2019,
+    "category": "Best Mobile Game",
+    "nominee": "Sky: Children of Light",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 700,
+    "year": 2019,
+    "category": "Best Mobile Game",
+    "nominee": "What the Golf?",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 701,
+    "year": 2019,
+    "category": "Best VR/AR Game",
+    "nominee": "Beat Saber",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 702,
+    "year": 2019,
+    "category": "Best VR/AR Game",
+    "nominee": "Asgard's Wrath",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 703,
+    "year": 2019,
+    "category": "Best VR/AR Game",
+    "nominee": "Blood & Truth",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 704,
+    "year": 2019,
+    "category": "Best VR/AR Game",
+    "nominee": "No Man's Sky",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 705,
+    "year": 2019,
+    "category": "Best VR/AR Game",
+    "nominee": "Trover Saves the Universe",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 706,
+    "year": 2019,
+    "category": "Best Action Game",
+    "nominee": "Devil May Cry 5",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 707,
+    "year": 2019,
+    "category": "Best Action Game",
+    "nominee": "Apex Legends",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 708,
+    "year": 2019,
+    "category": "Best Action Game",
+    "nominee": "Astral Chain",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 709,
+    "year": 2019,
+    "category": "Best Action Game",
+    "nominee": "Call of Duty: Modern Warfare",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 710,
+    "year": 2019,
+    "category": "Best Action Game",
+    "nominee": "Gears 5",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 711,
+    "year": 2019,
+    "category": "Best Action Game",
+    "nominee": "Metro Exodus",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 712,
+    "year": 2019,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Sekiro: Shadows Die Twice",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 713,
+    "year": 2019,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Borderlands 3",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 714,
+    "year": 2019,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Control",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 715,
+    "year": 2019,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 716,
+    "year": 2019,
+    "category": "Best Action/Adventure Game",
+    "nominee": "Resident Evil 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 717,
+    "year": 2019,
+    "category": "Best Action/Adventure Game",
+    "nominee": "The Legend of Zelda: Link's Awakening",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 718,
+    "year": 2019,
+    "category": "Best Role Playing Game",
+    "nominee": "Disco Elysium",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 719,
+    "year": 2019,
+    "category": "Best Role Playing Game",
+    "nominee": "Final Fantasy XIV",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 720,
+    "year": 2019,
+    "category": "Best Role Playing Game",
+    "nominee": "Kingdom Hearts III",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 721,
+    "year": 2019,
+    "category": "Best Role Playing Game",
+    "nominee": "Monster Hunter World: Iceborne",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 722,
+    "year": 2019,
+    "category": "Best Role Playing Game",
+    "nominee": "The Outer Worlds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 723,
+    "year": 2019,
+    "category": "Best Fighting Game",
+    "nominee": "Super Smash Bros. Ultimate",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 724,
+    "year": 2019,
+    "category": "Best Fighting Game",
+    "nominee": "Dead or Alive 6",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 725,
+    "year": 2019,
+    "category": "Best Fighting Game",
+    "nominee": "Jump Force",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 726,
+    "year": 2019,
+    "category": "Best Fighting Game",
+    "nominee": "Mortal Kombat 11",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 727,
+    "year": 2019,
+    "category": "Best Family Game",
+    "nominee": "Samurai Shodown",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 728,
+    "year": 2019,
+    "category": "Best Family Game",
+    "nominee": "Luigi's Mansion 3",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 729,
+    "year": 2019,
+    "category": "Best Family Game",
+    "nominee": "Ring Fit Adventure",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 730,
+    "year": 2019,
+    "category": "Best Family Game",
+    "nominee": "Super Mario Maker 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 731,
+    "year": 2019,
+    "category": "Best Family Game",
+    "nominee": "Super Smash Bros. Ultimate",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 732,
+    "year": 2019,
+    "category": "Best Family Game",
+    "nominee": "Yoshi's Crafted World",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 733,
+    "year": 2019,
+    "category": "Best Strategy Game",
+    "nominee": "Fire Emblem: Three Houses",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 734,
+    "year": 2019,
+    "category": "Best Strategy Game",
+    "nominee": "Age of Wonders: Planetfall",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 735,
+    "year": 2019,
+    "category": "Best Strategy Game",
+    "nominee": "Anno 1800",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 736,
+    "year": 2019,
+    "category": "Best Strategy Game",
+    "nominee": "Total War: Three Kingdoms",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 737,
+    "year": 2019,
+    "category": "Best Strategy Game",
+    "nominee": "Tropico 6",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 738,
+    "year": 2019,
+    "category": "Best Strategy Game",
+    "nominee": "Wargroove",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 739,
+    "year": 2019,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Crash Team Racing Nitro-Fueled",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 740,
+    "year": 2019,
+    "category": "Best Sports/Racing Game",
+    "nominee": "Dirt Rally 2.0",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 741,
+    "year": 2019,
+    "category": "Best Sports/Racing Game",
+    "nominee": "eFootball Pro Evolution Soccer 2020",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 742,
+    "year": 2019,
+    "category": "Best Sports/Racing Game",
+    "nominee": "F1 2019",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 743,
+    "year": 2019,
+    "category": "Best Sports/Racing Game",
+    "nominee": "FIFA 20",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 744,
+    "year": 2019,
+    "category": "Best Multiplayer Game",
+    "nominee": "Apex Legends",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 745,
+    "year": 2019,
+    "category": "Best Multiplayer Game",
+    "nominee": "Borderlands 3",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 746,
+    "year": 2019,
+    "category": "Best Multiplayer Game",
+    "nominee": "Call of Duty: Modern Warfare",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 747,
+    "year": 2019,
+    "category": "Best Multiplayer Game",
+    "nominee": "Tetris 99",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 748,
+    "year": 2019,
+    "category": "Best Multiplayer Game",
+    "nominee": "Tom Clancy's The Division 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 749,
+    "year": 2019,
+    "category": "Fresh Indie Game",
+    "nominee": "Disco Elysium",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 750,
+    "year": 2019,
+    "category": "Fresh Indie Game",
+    "nominee": "My Friend Pedro",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 751,
+    "year": 2019,
+    "category": "Fresh Indie Game",
+    "nominee": "Untitled Goose Game",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 752,
+    "year": 2019,
+    "category": "Fresh Indie Game",
+    "nominee": "Slay the Spire",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 753,
+    "year": 2019,
+    "category": "Fresh Indie Game",
+    "nominee": "Outer Wilds",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 754,
+    "year": 2019,
+    "category": "Fresh Indie Game",
+    "nominee": "Gris",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 755,
+    "year": 2019,
+    "category": "Best Community Support",
+    "nominee": "Destiny 2",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 756,
+    "year": 2019,
+    "category": "Best Community Support",
+    "nominee": "Apex Legends",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 757,
+    "year": 2019,
+    "category": "Best Community Support",
+    "nominee": "Final Fantasy XIV",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 758,
+    "year": 2019,
+    "category": "Best Community Support",
+    "nominee": "Fortnite",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 759,
+    "year": 2019,
+    "category": "Best Community Support",
+    "nominee": "Tom Clancy's Rainbow Six Siege",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 760,
+    "year": 2019,
+    "category": "Content Creator of the Year",
+    "nominee": "Michael \"Shroud\" Grzesiek",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 761,
+    "year": 2019,
+    "category": "Content Creator of the Year",
+    "nominee": "Jack \"Courage\" Dunlop",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 762,
+    "year": 2019,
+    "category": "Content Creator of the Year",
+    "nominee": "Benjamin \"Dr. Lupo\" Lupo",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 763,
+    "year": 2019,
+    "category": "Content Creator of the Year",
+    "nominee": "Soleil \"Ewok\" Wheeler",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 764,
+    "year": 2019,
+    "category": "Content Creator of the Year",
+    "nominee": "David \"Grefg\" Martínez",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 765,
+    "year": 2019,
+    "category": "Player's Voice",
+    "nominee": "Fire Emblem: Three Houses",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 766,
+    "year": 2019,
+    "category": "Player's Voice",
+    "nominee": "Death Stranding",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 767,
+    "year": 2019,
+    "category": "Player's Voice",
+    "nominee": "Star Wars Jedi: Fallen Order",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 768,
+    "year": 2019,
+    "category": "Player's Voice",
+    "nominee": "Super Smash Bros. Ultimate",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 769,
+    "year": 2019,
+    "category": "Best Esports Game",
+    "nominee": "League of Legends",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 770,
+    "year": 2019,
+    "category": "Best Esports Game",
+    "nominee": "Counter-Strike: Global Offensive",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 771,
+    "year": 2019,
+    "category": "Best Esports Game",
+    "nominee": "Dota 2",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 772,
+    "year": 2019,
+    "category": "Best Esports Game",
+    "nominee": "Fortnite",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 773,
+    "year": 2019,
+    "category": "Best Esports Game",
+    "nominee": "Overwatch",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 774,
+    "year": 2019,
+    "category": "Best Esports Player",
+    "nominee": "Kyle \"Bugha\" Giersdorf (Sentinels, Fortnite)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 775,
+    "year": 2019,
+    "category": "Best Esports Player",
+    "nominee": "Lee \"Faker\" Sang-hyeok (SK Telecom T1, League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 776,
+    "year": 2019,
+    "category": "Best Esports Player",
+    "nominee": "Luka \"Perkz\" Perkovic (G2 Esports, League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 777,
+    "year": 2019,
+    "category": "Best Esports Player",
+    "nominee": "Oleksandr \"S1mple\" Kostyliev (Natus Vincere, Counter-Strike: Global Offensive)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 778,
+    "year": 2019,
+    "category": "Best Esports Player",
+    "nominee": "Jay \"Sinatraa\" Won (San Francisco Shock, Overwatch League)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 779,
+    "year": 2019,
+    "category": "Best Esports Team",
+    "nominee": "G2 Esports (League of Legends)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 780,
+    "year": 2019,
+    "category": "Best Esports Team",
+    "nominee": "Astralis (Counter-Strike: Global Offensive)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 781,
+    "year": 2019,
+    "category": "Best Esports Team",
+    "nominee": "OG (Dota 2)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 782,
+    "year": 2019,
+    "category": "Best Esports Team",
+    "nominee": "San Francisco Shock (Overwatch League)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 783,
+    "year": 2019,
+    "category": "Best Esports Team",
+    "nominee": "Team Liquid (Counter-Strike: Global Offensive)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 784,
+    "year": 2019,
+    "category": "Best Esports Coach",
+    "nominee": "Danny \"Zonic\" Sørensen (Astralis, Counter-Strike: Global Offensive)",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 785,
+    "year": 2019,
+    "category": "Best Esports Coach",
+    "nominee": "Eric \"adreN\" Hoag (Team Liquid, Counter-Strike: Global Offensive)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 786,
+    "year": 2019,
+    "category": "Best Esports Coach",
+    "nominee": "Nu-ri \"Cain\" Jang (Team Liquid, League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 787,
+    "year": 2019,
+    "category": "Best Esports Coach",
+    "nominee": "Fabian \"GrabbZ\" Lohmann (G2 Esports, League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 788,
+    "year": 2019,
+    "category": "Best Esports Coach",
+    "nominee": "Kim \"Kkoma\" Jeong-gyun (SK Telecom T1, League of Legends)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 789,
+    "year": 2019,
+    "category": "Best Esports Coach",
+    "nominee": "Titouan \"Sockshka\" Merloz (OG, Dota 2)",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 790,
+    "year": 2019,
+    "category": "Best Esports Event",
+    "nominee": "2019 League of Legends World Championship",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 791,
+    "year": 2019,
+    "category": "Best Esports Event",
+    "nominee": "2019 Overwatch League Grand Finals",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 792,
+    "year": 2019,
+    "category": "Best Esports Event",
+    "nominee": "EVO 2019",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 793,
+    "year": 2019,
+    "category": "Best Esports Event",
+    "nominee": "Fortnite World Cup",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 794,
+    "year": 2019,
+    "category": "Best Esports Event",
+    "nominee": "IEM Katowice 2019",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 795,
+    "year": 2019,
+    "category": "Best Esports Event",
+    "nominee": "The International 2019",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 796,
+    "year": 2019,
+    "category": "Best Esports Host",
+    "nominee": "Eefje \"Sjokz\" Depoortere",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 797,
+    "year": 2019,
+    "category": "Best Esports Host",
+    "nominee": "Alex \"Goldenboy\" Mendez",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 798,
+    "year": 2019,
+    "category": "Best Esports Host",
+    "nominee": "Alex \"Machine\" Richardson",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 799,
+    "year": 2019,
+    "category": "Best Esports Host",
+    "nominee": "Duan \"Candice\" Yu-Shuang",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 800,
+    "year": 2019,
+    "category": "Best Esports Host",
+    "nominee": "Paul \"Redeye\" Chaloner",
+    "winner": false,
+    "additionalInfo": ""
+  },
+  {
+    "id": 801,
+    "year": 2019,
+    "category": "Global Gaming Citizens",
+    "nominee": "Fereshteh Forough, Code to Inspire",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 802,
+    "year": 2019,
+    "category": "Global Gaming Citizens",
+    "nominee": "Damon Packwood, Gameheads",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 803,
+    "year": 2019,
+    "category": "Global Gaming Citizens",
+    "nominee": "Luke, Let's Be Well",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 804,
+    "year": 2019,
+    "category": "Global Gaming Citizens",
+    "nominee": "Vanessa Gill, Social Cipher",
+    "winner": true,
+    "additionalInfo": ""
+  },
+  {
+    "id": 805,
+    "year": 2019,
+    "category": "Global Gaming Citizens",
+    "nominee": "Stephen Machuga and Mat Bergendahl, Stack Up",
+    "winner": true,
+    "additionalInfo": ""
+  }
+]
